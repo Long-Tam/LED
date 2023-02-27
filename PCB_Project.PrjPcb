@@ -49,23 +49,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\PCB_Project\LEDMATRIX.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=SYPWVQRL
-
-[Document2]
 DocumentPath=..\..\..\..\..\Admin\Downloads\PIF_Library.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -82,7 +65,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document3]
+[Document2]
 DocumentPath=LEDMATRIX.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,8 +82,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YMEEULUE
 
-[Document4]
-DocumentPath=..\PCB_Project\LEDMATRIX.OutJob
+[Document3]
+DocumentPath=LEDMATRIX.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -116,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document5]
+[Document4]
 DocumentPath=LEDMATRIX.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,7 +116,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SYPWVQRL
 
-[Document6]
+[Document5]
 DocumentPath=LEDTMARIX.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -150,7 +133,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EIRIRWRJ
 
-[Document7]
+[Document6]
 DocumentPath=LEDMATRIX.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +151,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VDQINWEN
 
 [GeneratedDocument1]
-DocumentPath=..\PCB_Project\Project Outputs for PCB_Project\Design Rule Check - LEDMATRIX.html
+DocumentPath=Project Outputs for PCB_Project\Design Rule Check - LEDMATRIX.html
 DItemRevisionGUID=
 
 [Configuration1]
